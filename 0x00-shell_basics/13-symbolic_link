@@ -1,2 +1,13 @@
 #!/bin/bash
-ln -s /bin/bash __ls__
+ln -s /bin/bash __ls_
+
+
+
+
+
+
+
+
+
+
+_
